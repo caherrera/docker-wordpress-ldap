@@ -1,1 +1,1 @@
-# itline-wordpress-ldap
+# docker-wordpress-ldap
